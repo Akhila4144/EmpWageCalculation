@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.exe
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.deps.json
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.dll
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\bin\Debug\netcoreapp3.1\EmployeeWAge7.pdb
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.dll
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.pdb
+C:\Users\Raj Nani\source\repos\EmployeeWAge7\EmployeeWAge7\obj\Debug\netcoreapp3.1\EmployeeWAge7.genruntimeconfig.cache
