@@ -1,0 +1,13 @@
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.exe
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.deps.json
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.dll
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\bin\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.pdb
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.dll
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.pdb
+C:\Users\Raj Nani\source\repos\EmpWageForMultipleCMPNY\EmpWageForMultipleCMPNY\obj\Debug\netcoreapp3.1\EmpWageForMultipleCMPNY.genruntimeconfig.cache
