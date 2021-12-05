@@ -1,0 +1,7 @@
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\obj\Debug\EmpWageUsingSwitch.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\obj\Debug\EmpWageUsingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\bin\Debug\EmpWageUsingSwitch.exe.config
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\bin\Debug\EmpWageUsingSwitch.exe
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\bin\Debug\EmpWageUsingSwitch.pdb
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\obj\Debug\EmpWageUsingSwitch.exe
+C:\Users\Raj Nani\source\repos\EmpWageUsingSwitch\EmpWageUsingSwitch\obj\Debug\EmpWageUsingSwitch.pdb
