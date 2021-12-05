@@ -1,0 +1,7 @@
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\bin\Debug\EmpWageforMonth5.exe.config
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\bin\Debug\EmpWageforMonth5.exe
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\bin\Debug\EmpWageforMonth5.pdb
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\obj\Debug\EmpWageforMonth5.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\obj\Debug\EmpWageforMonth5.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\obj\Debug\EmpWageforMonth5.exe
+C:\Users\Raj Nani\source\repos\EmpWageforMonth5\EmpWageforMonth5\obj\Debug\EmpWageforMonth5.pdb
