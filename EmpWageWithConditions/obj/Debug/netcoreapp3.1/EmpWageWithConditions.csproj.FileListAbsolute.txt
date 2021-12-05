@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.exe
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.deps.json
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.dll
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\bin\Debug\netcoreapp3.1\EmpWageWithConditions.pdb
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.dll
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.pdb
+C:\Users\Raj Nani\source\repos\EmpWageWithConditions\EmpWageWithConditions\obj\Debug\netcoreapp3.1\EmpWageWithConditions.genruntimeconfig.cache
