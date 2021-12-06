@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.exe
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.deps.json
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.dll
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\bin\Debug\netcoreapp3.1\EmpWage_10.pdb
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.dll
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.pdb
+C:\Users\Raj Nani\source\repos\EmpWage_10\EmpWage_10\obj\Debug\netcoreapp3.1\EmpWage_10.genruntimeconfig.cache
